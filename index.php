@@ -92,6 +92,8 @@ mungkin di versi mendatang gw bakal tambahin ( kalo gw inget sama kalo gw niat )
 yak, itulah library simple yang iseng iseng gw buat dalam waktu senggang, h3h3,
 kalo ada bug kasih tau ya :)
 
+Download : Via<a href="https://github.com/AhmadZuhdi/LibLoader/">GitHub</a>
+
 </pre>
 <div class="pull-right">Ahmad Zuhdi ~ </div>
 			</div>
